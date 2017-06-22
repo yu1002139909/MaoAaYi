@@ -41,7 +41,7 @@ public class IndexFragment extends Fragment {
     }
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_index, container, false);;
+        View view = inflater.inflate(R.layout.fragment_index, container, false);
         ayhead = (ImageView)view.findViewById(R.id.m_ayhear);
         orderNum = (TextView)view.findViewById(R.id.t_orderNum);
         goodpj = (TextView) view.findViewById(R.id.t_googpj);
@@ -94,7 +94,7 @@ public class IndexFragment extends Fragment {
 
 
                                                                                                                       };
-                                                                                                                     Intent intent = new Intent();
+                                                                                                                      Intent intent = new Intent();
 
                                                                                                                       Bundle b = new Bundle();
                                                                                                                       b.putStringArray("userId", strlist);

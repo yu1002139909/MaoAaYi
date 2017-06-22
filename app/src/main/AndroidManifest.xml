@@ -28,6 +28,7 @@
         <activity android:name=".activty.MainActivity"></activity>
         <activity android:name=".activty.ListActity"></activity>
         <activity android:name=".activty.PaiHangActivty"></activity>
+        <activity android:name=".activty.KouBeiActivty"></activity>
     </application>
 
 </manifest>
