@@ -29,6 +29,7 @@
         <activity android:name=".activty.ListActity"></activity>
         <activity android:name=".activty.PaiHangActivty"></activity>
         <activity android:name=".activty.KouBeiActivty"></activity>
+        <activity android:name=".activty.MoneyActivty"></activity>
     </application>
 
 </manifest>

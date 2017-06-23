@@ -117,8 +117,8 @@
         android:layout_marginTop="80dp"
         android:background="@drawable/button_style"
         android:padding="1dp"
+        android:textColor="#a1a1a1"
         android:text="登      录"
-        android:textColor="#008080"
         android:textSize="21sp" />
     <TextView
         android:layout_marginTop="10dp"

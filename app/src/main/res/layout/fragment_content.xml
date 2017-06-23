@@ -248,6 +248,7 @@
                 android:layout_height="20dp"
                 android:src="@drawable/arrow_right"
                 android:layout_marginLeft="250dp"
+                android:id="@+id/iv_money"
                 android:layout_gravity="center"
                 />
         </LinearLayout>

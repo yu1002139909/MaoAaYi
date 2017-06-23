@@ -111,7 +111,6 @@
                         android:layout_marginTop="7dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:id="@+id/t_date"
                         android:text="2017-04-18  上午"
                         android:textSize="12dp"
                         />
