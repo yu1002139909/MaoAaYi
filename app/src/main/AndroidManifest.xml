@@ -30,6 +30,9 @@
         <activity android:name=".activty.PaiHangActivty"></activity>
         <activity android:name=".activty.KouBeiActivty"></activity>
         <activity android:name=".activty.MoneyActivty"></activity>
+        <activity android:name=".activty.FiveMonthActivty"></activity>
+        <activity android:name=".activty.MessageActivty"></activity>
+        <activity android:name=".activty.MessageXXActivty"></activity>
     </application>
 
 </manifest>

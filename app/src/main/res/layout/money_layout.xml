@@ -29,7 +29,7 @@
             android:text="我的收入"
             android:textSize="20sp"
             android:layout_marginTop="6dp"
-            android:layout_marginLeft="85dp"
+            android:layout_marginLeft="110dp"
             />
     </LinearLayout>
     <LinearLayout
@@ -41,6 +41,7 @@
             android:layout_width="120dp"
             android:layout_height="30dp"
             android:padding="1dp"
+            android:id="@+id/btn_mess"
             android:text="你有5条新信息"
             android:textColor="#FFFFFF"
             android:layout_marginLeft="125dp"
@@ -73,8 +74,7 @@
               android:layout_width="wrap_content"
               android:layout_height="wrap_content"
               android:text="总收入"
-              android:textSize="16sp"
-              android:layout_marginTop="5dp"
+              android:textSize="14sp"
               android:layout_marginLeft="30dp"
               android:layout_gravity="center_horizontal"
               />
@@ -86,8 +86,8 @@
             >
             <edu.cqvie.cn.maoaayi.utils.CircleImageView
                 android:layout_marginTop="10dp"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
                 android:layout_gravity="center_horizontal"
                 android:src="@drawable/paihang_1"
                 android:layout_marginRight="2dp"
@@ -118,10 +118,9 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="总收入"
-                android:textSize="16sp"
-                android:layout_marginTop="5dp"
-                android:layout_marginLeft="25dp"
+                android:text="余额"
+                android:textSize="14sp"
+                android:layout_marginLeft="35dp"
                 />
         </LinearLayout>
     </LinearLayout>
@@ -168,6 +167,7 @@
                 />
             <ImageView
                 android:layout_gravity="center"
+                android:id="@+id/iv_five"
                 android:layout_width="25dp"
                 android:layout_height="20dp"
                 android:src="@drawable/arrow_right"
