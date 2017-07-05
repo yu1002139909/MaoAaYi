@@ -58,7 +58,7 @@
                     android:layout_width="50dp"
                     android:layout_height="match_parent"
                     android:layout_marginLeft="5dp"
-                    android:text="李阿姨"
+                    android:text="王曼"
                     android:gravity="center"
                     />
 
@@ -67,7 +67,7 @@
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="服务师编号:123456"
+                android:text="服务师编号:1234"
                 />
         </LinearLayout>
         <RatingBar
@@ -75,8 +75,8 @@
         android:layout_width="120dp"
         android:layout_height="20dp"
         android:layout_gravity="center_vertical"
-        android:numStars="5"
-        android:rating="3" />
+        android:numStars="8"
+        android:rating="4" />
     </LinearLayout>
     <RelativeLayout
         android:layout_width="match_parent"
@@ -119,7 +119,7 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="match_parent"
-                android:text="1975-05-03"
+                android:text="1995-05-15"
                 android:gravity="center_vertical"
                 android:textSize="14sp"
                 />
@@ -139,7 +139,7 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="match_parent"
-                android:text="15523235802"
+                android:text="155555555555"
                 android:gravity="center_vertical"
                 android:textSize="14sp"
                 />
@@ -160,7 +160,7 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="match_parent"
-                android:text="重庆万州新田盐井沟"
+                android:text="重庆万州区"
                 android:gravity="center_vertical"
                 android:textSize="14sp"
                 />
@@ -193,7 +193,7 @@
         <TextView
             android:layout_width="100dp"
             android:layout_height="match_parent"
-            android:text="重庆市"
+            android:text="重庆市万州区"
             android:gravity="center_vertical"
             android:textSize="14sp"
             />
@@ -213,7 +213,7 @@
             <TextView
                 android:layout_width="200dp"
                 android:layout_height="match_parent"
-                android:text="月亮小区、金科小区"
+                android:text="滨江一号，丽景蓝湾"
                 android:gravity="center_vertical"
                 android:textSize="14sp"
                 />
@@ -281,7 +281,8 @@
         />
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="100dp">
+        android:layout_height="100dp"
+        android:orientation="horizontal">
 
     </LinearLayout>
 </LinearLayout>

@@ -63,7 +63,7 @@
                     android:layout_marginTop="8dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text=""
+                    android:text="23"
                     android:id="@+id/t_pm"
                     android:gravity="center"
                     android:textColor="@color/white"/>
@@ -85,7 +85,7 @@
                     android:layout_marginTop="7dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text=""
+                    android:text="王曼"
                     android:id="@+id/t_orderNum"
                     android:gravity="center"
                     android:textColor="@color/white"/>
@@ -99,7 +99,7 @@
                     android:layout_marginTop="40dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text=""
+                    android:text="998"
                     android:id="@+id/t_googpj"
                     android:gravity="center"
                     android:textColor="@color/white"/>
@@ -200,7 +200,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/t_date"
-                android:text=""
+                android:text="2017-06-29-15:00"
                 android:textSize="12dp"
                 />
         </LinearLayout>
@@ -222,7 +222,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/t_orderAddres"
-                android:text=""
+                android:text="重庆万州新城路152号"
                 android:textSize="12dp"
                 />
         </LinearLayout>

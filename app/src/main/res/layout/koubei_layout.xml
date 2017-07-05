@@ -31,7 +31,7 @@
         android:background="#EFEFEF"
         android:layout_alignParentBottom="true"
         />
-    <LinearLayout
+    0<LinearLayout
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:orientation="vertical"
@@ -44,12 +44,12 @@
             android:layout_gravity="center_vertical"
             android:numStars="5"
             android:layout_marginLeft="125dp"
-            android:rating="3" />
+            android:rating="5" />
         <TextView
             android:layout_marginTop="5dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="3.5分"
+            android:text="5分"
             android:textSize="22sp"
             android:layout_gravity="center_horizontal"
             />
@@ -57,7 +57,7 @@
             android:layout_marginTop="5dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="总评价数：50次"
+            android:text="总评价数：99次"
             android:layout_gravity="center_horizontal"
             />
     </LinearLayout>
@@ -111,7 +111,7 @@
                         android:layout_marginTop="7dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="2017-04-18  上午"
+                        android:text="2017-05-05 上午"
                         android:textSize="12dp"
                         />
                 </LinearLayout>
@@ -134,7 +134,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:id="@+id/t_orderAddres"
-                        android:text="重庆万州新田"
+                        android:text="重庆市万州区太白路123号"
                         android:textSize="12dp"
                         />
                 </LinearLayout>
@@ -183,7 +183,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:id="@+id/t_date"
-                        android:text="2017-04-18  上午"
+                        android:text="2017-06-29  下午"
                         android:textSize="12dp"
                         />
                 </LinearLayout>
@@ -206,7 +206,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:id="@+id/t_orderAddres"
-                        android:text="重庆万州新田"
+                        android:text="重庆工程职业技术学院"
                         android:textSize="12dp"
                         />
                 </LinearLayout>
@@ -214,7 +214,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="4分"
+                android:text="5分"
                 android:layout_marginLeft="110dp"
                 android:textSize="25sp"
                 android:layout_gravity="center_vertical"
@@ -255,7 +255,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:id="@+id/t_date"
-                        android:text="2017-04-18  上午"
+                        android:text="2017-06-30  上午"
                         android:textSize="12dp"
                         />
                 </LinearLayout>
@@ -278,7 +278,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:id="@+id/t_orderAddres"
-                        android:text="重庆万州新田"
+                        android:text="重庆工程职业技术学院"
                         android:textSize="12dp"
                         />
                 </LinearLayout>

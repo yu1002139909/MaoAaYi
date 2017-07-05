@@ -55,7 +55,7 @@
             android:layout_marginLeft="8dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="2017-05-22 12:00"
+            android:text="2017-06-28 18:00"
             android:textColor="#bfbfbf"
             />
     </LinearLayout>
@@ -71,9 +71,7 @@
         android:layout_height="wrap_content"
         android:textSize="18sp"
         android:textColor="#bfbfbf"
-        android:text="在猫阿姨完成注册，登录后即可进行预约服务在猫
-        阿姨完成注册，登录后即可进行预约服务在猫阿姨完成注册，登录后即可进行预约服务在猫阿姨完
-        成注册，登录后即可进行预约服务。"
+        android:text="想要成为合格的Java程序员或工程师到底需要具备哪些专业技能，面试者在面试之前到底需要准备哪些东西呢？本文陈列的这些内容既可以作为个人简历中的内容，也可以作为面试的时候跟面试官聊的东西，你可以把这些内容写到你的简历中，当然更需要的是你在面试的时候向面试官展示这些专业技能。相信此文对正在寻觅Java程序员（Java工程师）职位的freshman以及希望成为中高级Java开发者的junior都会有所帮助。."
         />
     <LinearLayout
         android:layout_width="match_parent"
